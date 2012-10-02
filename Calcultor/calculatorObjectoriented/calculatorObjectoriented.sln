@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculatorObjectoriented", "calculatorObjectoriented\calculatorObjectoriented.csproj", "{56329048-9376-49ED-AC06-EBB467033A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56329048-9376-49ED-AC06-EBB467033A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56329048-9376-49ED-AC06-EBB467033A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56329048-9376-49ED-AC06-EBB467033A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56329048-9376-49ED-AC06-EBB467033A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

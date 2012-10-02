@@ -1,0 +1,20 @@
+<bookshop>
+  <book>
+    <!--This book is the book you are reading-->
+    <title>Beginning Visual C# 3rd Edition</title>
+    <author>Karli Watson C# 3rd Edition</author>
+    <code>1234567890</code>
+  </book>
+  <book>
+    <!--This book is the book you are reading-->
+    <title>Beginning Visual C# 3rd Edition</title>
+    <author>Karli Watson C# 3rd Edition</author>
+    <code>1234567890</code>
+  </book>
+  <book>
+    <!--This book is the book you are reading-->
+    <title>Beginning Visual C# 3rd Edition</title>
+    <author>Karli Watson C# 3rd Edition</author>
+    <code>1234567890</code>
+  </book>
+</bookshop>

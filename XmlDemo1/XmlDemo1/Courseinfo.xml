@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <course>
+    <cno>121</cno>
+    <cname>12</cname>
+    <cprise>12</cprise>
+    <ctno>12</ctno>
+    <ctname>12</ctname>
+  </course>
+  <course>
+    <cno>13</cno>
+    <cname>13</cname>
+    <cprise>1313</cprise>
+    <ctno>13</ctno>
+    <ctname>13</ctname>
+  </course>
+</NewDataSet>

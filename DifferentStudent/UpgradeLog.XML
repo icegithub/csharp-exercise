@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DifferentStudent">
+</Property><Property Name="Solution File" Value="D:\Codes\visual studio 2010\Projects\DifferentStudent\DifferentStudent.sln">
+</Property><Property Name="User Options File" Value="D:\Codes\visual studio 2010\Projects\DifferentStudent\DifferentStudent.suo">
+</Property><Property Name="Date" Value="2011年11月22日">
+</Property><Property Name="Time" Value="15:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DifferentStudent.sln" Description="File successfully backed up as D:\Codes\visual studio 2010\Projects\DifferentStudent\Backup\DifferentStudent.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DifferentStudent.suo" Description="File successfully backed up as D:\Codes\visual studio 2010\Projects\DifferentStudent\Backup\DifferentStudent.suo">
+</Event><Event ErrorLevel="0" Project="DifferentStudent" Source="DifferentStudent\DifferentStudent.csproj" Description="Project file successfully backed up as D:\Codes\visual studio 2010\Projects\DifferentStudent\Backup\DifferentStudent\DifferentStudent.csproj">
+</Event><Event ErrorLevel="0" Project="DifferentStudent" Source="DifferentStudent\Model.cs" Description="File successfully backed up as D:\Codes\visual studio 2010\Projects\DifferentStudent\Backup\DifferentStudent\Model.cs">
+</Event><Event ErrorLevel="0" Project="DifferentStudent" Source="DifferentStudent\Program.cs" Description="File successfully backed up as D:\Codes\visual studio 2010\Projects\DifferentStudent\Backup\DifferentStudent\Program.cs">
+</Event><Event ErrorLevel="0" Project="DifferentStudent" Source="DifferentStudent\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Codes\visual studio 2010\Projects\DifferentStudent\Backup\DifferentStudent\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DifferentStudent" Source="DifferentStudent\DifferentStudent.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DifferentStudent" Source="DifferentStudent\DifferentStudent.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DifferentStudent.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DifferentStudent.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DifferentStudent" Source="DifferentStudent\DifferentStudent.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

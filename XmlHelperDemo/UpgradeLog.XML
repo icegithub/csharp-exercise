@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XmlHelperDemo">
+</Property><Property Name="Solution File" Value="D:\Codes\C#\XmlHelperDemo\XmlHelperDemo.sln">
+</Property><Property Name="Date" Value="Wednesday, July 25, 2012">
+</Property><Property Name="Time" Value="16:26">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="XmlHelperDemo.sln" Description="File successfully backed up as D:\Codes\C#\XmlHelperDemo\Backup\XmlHelperDemo.sln">
+</Event><Event ErrorLevel="0" Project="XmlHelperDemo" Source="XmlHelperDemo.csproj" Description="Project file successfully backed up as D:\Codes\C#\XmlHelperDemo\Backup\XmlHelperDemo.csproj">
+</Event><Event ErrorLevel="0" Project="XmlHelperDemo" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\Codes\C#\XmlHelperDemo\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="XmlHelperDemo" Source="Demo1Controls.cs" Description="File successfully backed up as D:\Codes\C#\XmlHelperDemo\Backup\Demo1Controls.cs">
+</Event><Event ErrorLevel="0" Project="XmlHelperDemo" Source="Demo2Controls.cs" Description="File successfully backed up as D:\Codes\C#\XmlHelperDemo\Backup\Demo2Controls.cs">
+</Event><Event ErrorLevel="0" Project="XmlHelperDemo" Source="Form1.cs" Description="File successfully backed up as D:\Codes\C#\XmlHelperDemo\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="XmlHelperDemo" Source="XmlHelper.cs" Description="File successfully backed up as D:\Codes\C#\XmlHelperDemo\Backup\XmlHelper.cs">
+</Event><Event ErrorLevel="0" Project="XmlHelperDemo" Source="App.ico" Description="File successfully backed up as D:\Codes\C#\XmlHelperDemo\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="XmlHelperDemo" Source="Demo1Controls.resx" Description="File successfully backed up as D:\Codes\C#\XmlHelperDemo\Backup\Demo1Controls.resx">
+</Event><Event ErrorLevel="0" Project="XmlHelperDemo" Source="Demo2Controls.resx" Description="File successfully backed up as D:\Codes\C#\XmlHelperDemo\Backup\Demo2Controls.resx">
+</Event><Event ErrorLevel="0" Project="XmlHelperDemo" Source="Form1.resx" Description="File successfully backed up as D:\Codes\C#\XmlHelperDemo\Backup\Form1.resx">
+</Event><Event ErrorLevel="1" Project="XmlHelperDemo" Source="XmlHelperDemo.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="XmlHelperDemo" Source="XmlHelperDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XmlHelperDemo" Source="XmlHelperDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="XmlHelperDemo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="XmlHelperDemo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XmlHelperDemo" Source="XmlHelperDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

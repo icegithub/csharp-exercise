@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlHelperDemo", "XmlHelperDemo.csproj", "{57629A42-3E9E-436E-8C96-91EDEFFDD793}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{57629A42-3E9E-436E-8C96-91EDEFFDD793}.Debug.ActiveCfg = Debug|.NET
+		{57629A42-3E9E-436E-8C96-91EDEFFDD793}.Debug.Build.0 = Debug|.NET
+		{57629A42-3E9E-436E-8C96-91EDEFFDD793}.Release.ActiveCfg = Release|.NET
+		{57629A42-3E9E-436E-8C96-91EDEFFDD793}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

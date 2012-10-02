@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Unit6">
+</Property><Property Name="Solution File" Value="D:\Codes\C#\2011年期末练习代码\Unit6\Unit6.sln">
+</Property><Property Name="User Options File" Value="D:\Codes\C#\2011年期末练习代码\Unit6\Unit6.suo">
+</Property><Property Name="Date" Value="2012年5月3日">
+</Property><Property Name="Time" Value="11:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Unit6.sln" Description="File successfully backed up as D:\Codes\C#\2011年期末练习代码\Unit6\Backup\Unit6.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Unit6.suo" Description="File successfully backed up as D:\Codes\C#\2011年期末练习代码\Unit6\Backup\Unit6.suo">
+</Event><Event ErrorLevel="0" Project="Unit6" Source="Unit6\Unit6.csproj" Description="Project file successfully backed up as D:\Codes\C#\2011年期末练习代码\Unit6\Backup\Unit6\Unit6.csproj">
+</Event><Event ErrorLevel="0" Project="Unit6" Source="Unit6\MasterAndServer.cs" Description="File successfully backed up as D:\Codes\C#\2011年期末练习代码\Unit6\Backup\Unit6\MasterAndServer.cs">
+</Event><Event ErrorLevel="0" Project="Unit6" Source="Unit6\NewStuPre.cs" Description="File successfully backed up as D:\Codes\C#\2011年期末练习代码\Unit6\Backup\Unit6\NewStuPre.cs">
+</Event><Event ErrorLevel="0" Project="Unit6" Source="Unit6\Program.cs" Description="File successfully backed up as D:\Codes\C#\2011年期末练习代码\Unit6\Backup\Unit6\Program.cs">
+</Event><Event ErrorLevel="0" Project="Unit6" Source="Unit6\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Codes\C#\2011年期末练习代码\Unit6\Backup\Unit6\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Unit6" Source="Unit6\Burn.ico" Description="File successfully backed up as D:\Codes\C#\2011年期末练习代码\Unit6\Backup\Unit6\Burn.ico">
+</Event><Event ErrorLevel="0" Project="Unit6" Source="Unit6\Unit6.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Unit6" Source="Unit6\Unit6.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Unit6.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Unit6.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Unit6" Source="Unit6\Unit6.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Unit6/Program.cs" ctype="Workbench">
+    <Files>
+      <File FileName="Unit6/MasterAndServer.cs" Line="54" Column="24" />
+      <File FileName="Unit6/NewStuPre.cs" Line="22" Column="6" />
+      <File FileName="Unit6/Program.cs" Line="26" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>

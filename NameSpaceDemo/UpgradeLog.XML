@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NameSpaceDemo">
+</Property><Property Name="Solution File" Value="E:\Codes\visual studio 2008\NameSpaceDemo\NameSpaceDemo.sln">
+</Property><Property Name="User Options File" Value="E:\Codes\visual studio 2008\NameSpaceDemo\NameSpaceDemo.suo">
+</Property><Property Name="Date" Value="2011年12月2日">
+</Property><Property Name="Time" Value="20:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NameSpaceDemo.sln" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NameSpaceDemo.suo" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo.suo">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\NameSpaceDemo.csproj" Description="Project file successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo\NameSpaceDemo.csproj">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\file2.cs" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo\file2.cs">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\files.cs" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo\files.cs">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\Form1.cs" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo\Form1.cs">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\Form1.Designer.cs" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\Program.cs" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo\Program.cs">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\Properties\Resources.Designer.cs" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\Properties\Settings.Designer.cs" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\Properties\Settings.settings" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\Form1.resx" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo\Form1.resx">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\Properties\Resources.resx" Description="File successfully backed up as E:\Codes\visual studio 2008\NameSpaceDemo\Backup\NameSpaceDemo\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="NameSpaceDemo" Source="NameSpaceDemo\NameSpaceDemo.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\NameSpaceDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NameSpaceDemo" Source="NameSpaceDemo\NameSpaceDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NameSpaceDemo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NameSpaceDemo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NameSpaceDemo" Source="NameSpaceDemo\NameSpaceDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

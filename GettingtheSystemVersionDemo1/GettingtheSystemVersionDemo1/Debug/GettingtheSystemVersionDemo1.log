@@ -1,0 +1,41 @@
+﻿Build started 2012/2/18 14:03:34.
+     1>Project "D:\Codes\visual studio 2010\Projects\GettingtheSystemVersionDemo1\GettingtheSystemVersionDemo1\GettingtheSystemVersionDemo1.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\GettingtheSystemVersionDemo1.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\GettingtheSystemVersionDemo1.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\GettingtheSystemVersionDemo1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\GettingtheSystemVersionDemo1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GetSys.cpp GettingtheSystemVersionDemo1.cpp
+         GettingtheSystemVersionDemo1.cpp
+         GetSys.cpp
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(1): warning C4627: '#include <windows.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(4): warning C4627: '#include <strsafe.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(12): error C2143: syntax error : missing ')' before '*'
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(12): error C2143: syntax error : missing ';' before '*'
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(12): error C2059: syntax error : ')'
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(12): error C2065: 'LPSYSTEM_INFO' : undeclared identifier
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(13): error C2065: 'DWORD' : undeclared identifier
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(13): error C2065: 'DWORD' : undeclared identifier
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(13): error C2065: 'DWORD' : undeclared identifier
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(13): error C2065: 'DWORD' : undeclared identifier
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(13): error C2065: 'PDWORD' : undeclared identifier
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(13): error C2513: 'int (WINAPI *)' : no variable declared before '='
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(15): error C2065: 'LPTSTR' : undeclared identifier
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(15): error C2146: syntax error : missing ')' before identifier 'pszOS'
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(15): error C2072: 'GetOSDisplayString' : initialization of a function
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(15): error C2059: syntax error : ')'
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(16): error C2143: syntax error : missing ';' before '{'
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(16): error C2447: '{' : missing function header (old-style formal list?)
+     1>d:\codes\visual studio 2010\projects\gettingthesystemversiondemo1\gettingthesystemversiondemo1\getsys.cpp(241): error C3861: 'TEXT': identifier not found
+         Generating Code...
+     1>Done Building Project "D:\Codes\visual studio 2010\Projects\GettingtheSystemVersionDemo1\GettingtheSystemVersionDemo1\GettingtheSystemVersionDemo1.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.66
